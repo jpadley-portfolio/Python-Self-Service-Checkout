@@ -1,0 +1,5 @@
+Coke,2.50,101
+Coke Zero,2.25,102
+Pepsi,3,103
+Fanta,2.75,104
+Water,1,105

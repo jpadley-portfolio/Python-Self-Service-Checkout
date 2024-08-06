@@ -1,0 +1,2 @@
+25/09/23101<bound method Product.getPrice of <Product.Product object at 0x000002C9573E3D00>>
+25/09/23101<bound method Product.getPrice of <Product.Product object at 0x000001C3F0683D00>>
